@@ -11,6 +11,10 @@ tweepy = "*"
 spacy = "*"
 python-dotenv = "*"
 scikit-learn = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
+migrate = "*"
+flask-migrate = "*"
 
 [dev-packages]
 
